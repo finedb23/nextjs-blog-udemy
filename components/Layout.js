@@ -7,6 +7,8 @@ import Image from 'next/image';
 
 export const siteTitle = 'Next.js ブログ';
 
+
+
 const Layout = ({ children, home }) => {
   return (
     <div className={styles.container}>
